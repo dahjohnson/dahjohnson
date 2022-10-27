@@ -4,7 +4,7 @@
 
 #### I am interested in DevOps, Site Reliability Engineering, and Cloud Development ☁️
  
-#### I am Level Up in Tech Student 🏫
+#### I am a Level Up in Tech Student 🏫
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
