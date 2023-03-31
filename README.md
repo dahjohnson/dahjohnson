@@ -2,7 +2,7 @@
 
 ### My name is Dahmear Johnson, and I am a big advocate for lifelong learning and professional development.  I have recently joined GitHub to hone my skills in the DevOps♾️ space and collaborate on Open Source projects that will benefit the community🫂.
 
-#### I am interested in DevOps, Site Reliability Engineering, Platform Engineering, and Cloud Development ☁️
+#### I am interested in DevOps, Site Reliability Engineering, Network Engineering, and Cloud Development ☁️
  
 #### I am also a Level Up in Tech Student 🏫
 
