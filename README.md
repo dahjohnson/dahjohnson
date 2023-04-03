@@ -4,7 +4,7 @@
 
 #### I am interested in DevOps, Site Reliability Engineering, Network Engineering, and Cloud Development ☁️
  
-#### I am also a Level Up in Tech Student 🏫
+#### I am also apart of the Level Up in Tech Alumni October 2022 Cohort 🏫
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
